@@ -1,15 +1,15 @@
 ![Profile Image](../images/ProfileImage.png)
 
-# Welcome
+## Welcome
 
-### Bebra Software is a casual team from TUSUR university. We develop projects as part of student assignments.
+Bebra Software is a casual team from TUSUR university. We develop projects as part of student assignments.
 
-# Get started
+## Get started
 
-### Open our repositories, experiment with our solutions, ask questions and feel welcome to contribute.
+Open our repositories, experiment with our solutions, ask questions and feel welcome to contribute.
 
-### To join our team, send a message to our work email and we will respond to you within a short time.
+To join our team, [send a message](mailto:bebra.software@bk.ru) to our work email and we will respond to you within a short time.
 
-# Last projects
+## Last projects
 
-* ### Client-server TodoList Web App built using the React & Redux / ASP.NET Core
+* [Client](https://github.com/BebraSoftware/todolist-front)-[server](https://github.com/BebraSoftware/todolist-back) TodoList Web App built using the React & Redux / ASP.NET Core
