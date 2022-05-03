@@ -1,4 +1,4 @@
-![Profile Image](../images/ProfileImage.png)
+![Profile Image](https://github.com/BebraSoftware/.github/blob/main/images/ProfileImage.png)
 
 ## Welcome
 
